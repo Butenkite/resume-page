@@ -1,0 +1,65 @@
+/*
+	reset for website
+
+	Author: Nicolaus Butenko
+	Date: 01/18/2025
+	Filename: reset.css
+
+*/
+
+address,
+article,
+aside,
+blockquote,
+body,
+cite,
+div,
+dl,
+dt,
+dd,
+em,
+figcaption,
+figure,
+footer,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+header,
+html,
+img,
+li,
+main,
+nav,
+nav a,
+ol,
+p,
+section,
+span,
+ul {
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+body {
+  line-height: 1.2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+tr,
+td,
+th,
+tbody,
+table {
+  margin: 0px;
+  padding: 0px;
+  border-spacing: 0;
+}
